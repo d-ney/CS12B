@@ -1,0 +1,6 @@
+line 1 contains: 
+3 alphabetic characters abc
+line 2 contains: 
+3 alphabetic characters klm
+line 3 contains: 
+14 alphabetic characters wlxyzopqgrstuv
